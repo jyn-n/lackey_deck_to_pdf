@@ -1,0 +1,84 @@
+<deck version="0.8">
+	<meta>
+		<title>unnamed</title>
+		<author>SetYourName</author>
+		<date>11-23-11</date>
+		<game>vtes</game>
+	</meta>
+	<superzone name="Library">
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="havenuncovered">Haven Uncovered</name><set>KMW</set></card>
+		<card><name id="havenuncovered">Haven Uncovered</name><set>KMW</set></card>
+		<card><name id="havenuncovered">Haven Uncovered</name><set>KMW</set></card>
+		<card><name id="havenuncovered">Haven Uncovered</name><set>KMW</set></card>
+		<card><name id="celerity">Celerity</name><set>KoT</set></card>
+		<card><name id="potence">Potence</name><set>KoT</set></card>
+		<card><name id="presence">Presence</name><set>KoT</set></card>
+		<card><name id="flash">Flash</name><set>Third</set></card>
+		<card><name id="flash">Flash</name><set>Third</set></card>
+		<card><name id="flash">Flash</name><set>Third</set></card>
+		<card><name id="flash">Flash</name><set>Third</set></card>
+		<card><name id="nimblefeet">Nimble Feet</name><set>Third</set></card>
+		<card><name id="nimblefeet">Nimble Feet</name><set>Third</set></card>
+		<card><name id="nimblefeet">Nimble Feet</name><set>Third</set></card>
+		<card><name id="nimblefeet">Nimble Feet</name><set>Third</set></card>
+		<card><name id="sideslip">Sideslip</name><set>LoB</set></card>
+		<card><name id="sideslip">Sideslip</name><set>LoB</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="mightygrapple">Mighty Grapple</name><set>Third</set></card>
+		<card><name id="mightygrapple">Mighty Grapple</name><set>Third</set></card>
+		<card><name id="mightygrapple">Mighty Grapple</name><set>Third</set></card>
+		<card><name id="mightygrapple">Mighty Grapple</name><set>Third</set></card>
+		<card><name id="shatteringblow">Shattering Blow</name><set>CE</set></card>
+		<card><name id="throwngate">Thrown Gate</name><set>LoB</set></card>
+		<card><name id="bewitchingoration">Bewitching Oration</name><set>Third</set></card>
+		<card><name id="bewitchingoration">Bewitching Oration</name><set>Third</set></card>
+		<card><name id="dreadgaze">Dread Gaze</name><set>BH</set></card>
+		<card><name id="dreadgaze">Dread Gaze</name><set>BH</set></card>
+		<card><name id="legalmanipulations">Legal Manipulations</name><set>LoB</set></card>
+		<card><name id="legalmanipulations">Legal Manipulations</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="autarkispersecution">Autarkis Persecution</name><set>CE</set></card>
+		<card><name id="autarkispersecution">Autarkis Persecution</name><set>CE</set></card>
+		<card><name id="autarkispersecution">Autarkis Persecution</name><set>CE</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="deadendalley">Dead-End Alley</name><set>Anarchs</set></card>
+		<card><name id="deadendalley">Dead-End Alley</name><set>Anarchs</set></card>
+		<card><name id="dodge">Dodge</name><set>Third</set></card>
+		<card><name id="dodge">Dodge</name><set>Third</set></card>
+		<card><name id="flakjacket">Flak Jacket</name><set>LoB</set></card>
+		<card><name id="flakjacket">Flak Jacket</name><set>LoB</set></card>
+		<card><name id="luckyblow">Lucky Blow</name><set>Anarchs</set></card>
+		<card><name id="luckyblow">Lucky Blow</name><set>Anarchs</set></card>
+		<card><name id="luckyblow">Lucky Blow</name><set>Anarchs</set></card>
+		<card><name id="luckyblow">Lucky Blow</name><set>Anarchs</set></card>
+		<card><name id="peacetreaty">Peace Treaty</name><set>Third</set></card>
+	</superzone>
+	<superzone name="Crypt">
+		<card><name id="anvil">Anvil</name><set>TenthM</set></card>
+		<card><name id="turavaughn">Tura Vaughn</name><set>TenthM</set></card>
+		<card><name id="mirandasanova">Miranda Sanova</name><set>TenthM</set></card>
+		<card><name id="rake">Rake</name><set>TenthM</set></card>
+		<card><name id="dreleaderofthecolddawn">Dre, Leader of the Cold Dawn</name><set>TenthM</set></card>
+		<card><name id="bianca">Bianca</name><set>TenthM</set></card>
+		<card><name id="blackcat">Black Cat</name><set>TenthM</set></card>
+		<card><name id="hectorsosa">Hector Sosa</name><set>TenthM</set></card>
+		<card><name id="yurithetalon">Yuri, The Talon</name><set>TenthM</set></card>
+		<card><name id="umahatch">Uma Hatch</name><set>TenthM</set></card>
+		<card><name id="lupo">Lupo</name><set>TenthM</set></card>
+		<card><name id="angel">Angel</name><set>TenthM</set></card>
+	</superzone>
+</deck>

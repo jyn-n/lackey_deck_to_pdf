@@ -1,0 +1,84 @@
+<deck version="0.8">
+	<meta>
+		<title>DemoDeck_Brujah</title>
+		<author>SetYourName</author>
+		<date>11-23-11</date>
+		<game>vtes</game>
+	</meta>
+	<superzone name="Library">
+		<card><name id="dodge">Dodge</name><set>Third</set></card>
+		<card><name id="dodge">Dodge</name><set>Third</set></card>
+		<card><name id="bribes">Bribes</name><set>Third</set></card>
+		<card><name id="bribes">Bribes</name><set>Third</set></card>
+		<card><name id="bribes">Bribes</name><set>Third</set></card>
+		<card><name id="bribes">Bribes</name><set>Third</set></card>
+		<card><name id="peacetreaty">Peace Treaty</name><set>Third</set></card>
+		<card><name id="kineresourcescontested">Kine Resources Contested</name><set>KoT</set></card>
+		<card><name id="kineresourcescontested">Kine Resources Contested</name><set>KoT</set></card>
+		<card><name id="kineresourcescontested">Kine Resources Contested</name><set>KoT</set></card>
+		<card><name id="kineresourcescontested">Kine Resources Contested</name><set>KoT</set></card>
+		<card><name id="domainchallenge">Domain Challenge</name><set>LoB</set></card>
+		<card><name id="domainchallenge">Domain Challenge</name><set>LoB</set></card>
+		<card><name id="domainchallenge">Domain Challenge</name><set>LoB</set></card>
+		<card><name id="domainchallenge">Domain Challenge</name><set>LoB</set></card>
+		<card><name id="consanguineouscondemnation">Consanguineous Condemnation</name><set>VTES</set></card>
+		<card><name id="consanguineouscondemnation">Consanguineous Condemnation</name><set>VTES</set></card>
+		<card><name id="consanguineouscondemnation">Consanguineous Condemnation</name><set>VTES</set></card>
+		<card><name id="consanguineouscondemnation">Consanguineous Condemnation</name><set>VTES</set></card>
+		<card><name id="ancientinfluence">Ancient Influence</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="socialcharm">Social Charm</name><set>LoB</set></card>
+		<card><name id="legalmanipulations">Legal Manipulations</name><set>LoB</set></card>
+		<card><name id="legalmanipulations">Legal Manipulations</name><set>LoB</set></card>
+		<card><name id="bewitchingoration">Bewitching Oration</name><set>Third</set></card>
+		<card><name id="bewitchingoration">Bewitching Oration</name><set>Third</set></card>
+		<card><name id="bewitchingoration">Bewitching Oration</name><set>Third</set></card>
+		<card><name id="bewitchingoration">Bewitching Oration</name><set>Third</set></card>
+		<card><name id="indomitability">Indomitability</name><set>HttB</set></card>
+		<card><name id="indomitability">Indomitability</name><set>HttB</set></card>
+		<card><name id="indomitability">Indomitability</name><set>HttB</set></card>
+		<card><name id="indomitability">Indomitability</name><set>HttB</set></card>
+		<card><name id="restoration">Restoration</name><set>Third</set></card>
+		<card><name id="restoration">Restoration</name><set>Third</set></card>
+		<card><name id="skinofrock">Skin of Rock</name><set>Anarchs</set></card>
+		<card><name id="skinofrock">Skin of Rock</name><set>Anarchs</set></card>
+		<card><name id="skinofrock">Skin of Rock</name><set>Anarchs</set></card>
+		<card><name id="skinofrock">Skin of Rock</name><set>Anarchs</set></card>
+		<card><name id="seduction">Seduction</name><set>KoT</set></card>
+		<card><name id="seduction">Seduction</name><set>KoT</set></card>
+		<card><name id="seduction">Seduction</name><set>KoT</set></card>
+		<card><name id="seduction">Seduction</name><set>KoT</set></card>
+		<card><name id="conditioning">Conditioning</name><set>HttB</set></card>
+		<card><name id="conditioning">Conditioning</name><set>HttB</set></card>
+		<card><name id="bonding">Bonding</name><set>HttB</set></card>
+		<card><name id="bonding">Bonding</name><set>HttB</set></card>
+		<card><name id="bonding">Bonding</name><set>HttB</set></card>
+		<card><name id="bonding">Bonding</name><set>HttB</set></card>
+		<card><name id="presence">Presence</name><set>KoT</set></card>
+		<card><name id="fortitude">Fortitude</name><set>HttB</set></card>
+		<card><name id="dominate">Dominate</name><set>HttB</set></card>
+		<card><name id="elderlibrary">Elder Library</name><set>LoB</set></card>
+		<card><name id="effectivemanagement">Effective Management</name><set>HttB</set></card>
+		<card><name id="effectivemanagement">Effective Management</name><set>HttB</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+	</superzone>
+	<superzone name="Crypt">
+		<card><name id="democritus">Democritus</name><set>TenthM</set></card>
+		<card><name id="natashavolfchek">Natasha Volfchek</name><set>TenthM</set></card>
+		<card><name id="emersonbridges">Emerson Bridges</name><set>TenthM</set></card>
+		<card><name id="sirwalternash">Sir Walter Nash</name><set>TenthM</set></card>
+		<card><name id="timothycrowley">Timothy Crowley</name><set>TenthM</set></card>
+		<card><name id="heatherflorenttheopportunist">Heather Florent, The Opportunist</name><set>TenthM</set></card>
+		<card><name id="jazzwentworth">Jazz Wentworth</name><set>TenthM</set></card>
+		<card><name id="courtlandleighton">Courtland Leighton</name><set>TenthM</set></card>
+		<card><name id="violetteprentiss">Violette Prentiss</name><set>TenthM</set></card>
+		<card><name id="rolandloussarian">Roland Loussarian</name><set>TenthM</set></card>
+		<card><name id="gideonfontaine">Gideon Fontaine</name><set>TenthM</set></card>
+		<card><name id="rufinasoledad">Rufina Soledad</name><set>TenthM</set></card>
+	</superzone>
+</deck>

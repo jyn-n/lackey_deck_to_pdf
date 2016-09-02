@@ -1,0 +1,82 @@
+<deck version="0.8">
+	<meta>
+		<title>DemoDeck_Nosferatu</title>
+		<author>SetYourName</author>
+		<date>11-23-11</date>
+		<game>vtes</game>
+	</meta>
+	<superzone name="Library">
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="ascendance">Ascendance</name><set>CE</set></card>
+		<card><name id="barrensthe">Barrens, The</name><set>HttB</set></card>
+		<card><name id="havenuncovered">Haven Uncovered</name><set>KMW</set></card>
+		<card><name id="havenuncovered">Haven Uncovered</name><set>KMW</set></card>
+		<card><name id="animalism">Animalism</name><set>CE</set></card>
+		<card><name id="obfuscate">Obfuscate</name><set>KoT</set></card>
+		<card><name id="potence">Potence</name><set>KoT</set></card>
+		<card><name id="aidfrombats">Aid from Bats</name><set>KoT</set></card>
+		<card><name id="aidfrombats">Aid from Bats</name><set>KoT</set></card>
+		<card><name id="aidfrombats">Aid from Bats</name><set>KoT</set></card>
+		<card><name id="aidfrombats">Aid from Bats</name><set>KoT</set></card>
+		<card><name id="armyofrats">Army of Rats</name><set>LoB</set></card>
+		<card><name id="caninehorde">Canine Horde</name><set>Third</set></card>
+		<card><name id="ratswarning">Rat&apos;s Warning</name><set>LoB</set></card>
+		<card><name id="ratswarning">Rat&apos;s Warning</name><set>LoB</set></card>
+		<card><name id="ratswarning">Rat&apos;s Warning</name><set>LoB</set></card>
+		<card><name id="ratswarning">Rat&apos;s Warning</name><set>LoB</set></card>
+		<card><name id="cloakthegathering">Cloak the Gathering</name><set>HttB</set></card>
+		<card><name id="cloakthegathering">Cloak the Gathering</name><set>HttB</set></card>
+		<card><name id="cloakthegathering">Cloak the Gathering</name><set>HttB</set></card>
+		<card><name id="facelessnight">Faceless Night</name><set>Third</set></card>
+		<card><name id="facelessnight">Faceless Night</name><set>Third</set></card>
+		<card><name id="facelessnight">Faceless Night</name><set>Third</set></card>
+		<card><name id="hiddenlurker">Hidden Lurker</name><set>KMW</set></card>
+		<card><name id="lostincrowds">Lost in Crowds</name><set>HttB</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="growingfury">Growing Fury</name><set>VTES</set></card>
+		<card><name id="mightygrapple">Mighty Grapple</name><set>Third</set></card>
+		<card><name id="mightygrapple">Mighty Grapple</name><set>Third</set></card>
+		<card><name id="thrownsewerlid">Thrown Sewer Lid</name><set>LoB</set></card>
+		<card><name id="thrownsewerlid">Thrown Sewer Lid</name><set>LoB</set></card>
+		<card><name id="thrownsewerlid">Thrown Sewer Lid</name><set>LoB</set></card>
+		<card><name id="thrownsewerlid">Thrown Sewer Lid</name><set>LoB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="bumsrush">Bum&apos;s Rush</name><set>HttB</set></card>
+		<card><name id="computerhacking">Computer Hacking</name><set>HttB</set></card>
+		<card><name id="computerhacking">Computer Hacking</name><set>HttB</set></card>
+		<card><name id="computerhacking">Computer Hacking</name><set>HttB</set></card>
+		<card><name id="computerhacking">Computer Hacking</name><set>HttB</set></card>
+		<card><name id="deadendalley">Dead-End Alley</name><set>Anarchs</set></card>
+		<card><name id="deadendalley">Dead-End Alley</name><set>Anarchs</set></card>
+		<card><name id="deadendalley">Dead-End Alley</name><set>Anarchs</set></card>
+		<card><name id="deadendalley">Dead-End Alley</name><set>Anarchs</set></card>
+		<card><name id="fakeout">Fake Out</name><set>Anarchs</set></card>
+		<card><name id="fakeout">Fake Out</name><set>Anarchs</set></card>
+		<card><name id="fakeout">Fake Out</name><set>Anarchs</set></card>
+		<card><name id="fakeout">Fake Out</name><set>Anarchs</set></card>
+		<card><name id="laptopcomputer">Laptop Computer</name><set>LoB</set></card>
+		<card><name id="laptopcomputer">Laptop Computer</name><set>LoB</set></card>
+		<card><name id="sawedoffshotgun">Sawed-Off Shotgun</name><set>Third</set></card>
+		<card><name id="sawedoffshotgun">Sawed-Off Shotgun</name><set>Third</set></card>
+	</superzone>
+	<superzone name="Crypt">
+		<card><name id="selmatherepugnant">Selma the Repugnant</name><set>TenthM</set></card>
+		<card><name id="ebanezerroush">Ebanezer Roush</name><set>TenthM</set></card>
+		<card><name id="chesterdubois">Chester DuBois</name><set>TenthM</set></card>
+		<card><name id="sebastianmarley">Sebastian Marley</name><set>TenthM</set></card>
+		<card><name id="tuskthetalebearer">Tusk, The Talebearer</name><set>TenthM</set></card>
+		<card><name id="grendelthewormeaten">Grendel the Worm-Eaten</name><set>TenthM</set></card>
+		<card><name id="tiberiusthescandalmonger">Tiberius, The Scandalmonger</name><set>TenthM</set></card>
+		<card><name id="sammy">Sammy</name><set>TenthM</set></card>
+		<card><name id="agrippina">Agrippina</name><set>TenthM</set></card>
+		<card><name id="duck">Duck</name><set>TenthM</set></card>
+		<card><name id="dimple">Dimple</name><set>TenthM</set></card>
+		<card><name id="koko">KoKo</name><set>TenthM</set></card>
+	</superzone>
+</deck>
